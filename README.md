@@ -53,13 +53,16 @@ The system automatically compares them and generates:
 ## 🖥️ Application Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+<img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/874d1368-4a2d-4e8e-adac-4f25f5706338" />
+
 
 ### 🔹 Reconciliation Results
-![Results](screenshots/results.png)
+<img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/a03e3e56-425b-410b-b5ce-962b28a3ec69" />
+
 
 ### 🔹 Analytics Charts
-![Charts](screenshots/charts.png)
+<img width="1366" height="598" alt="image" src="https://github.com/user-attachments/assets/7f2ed3d8-6170-40f1-9701-f8d41311d8a5" />
+
 
 ---
 
