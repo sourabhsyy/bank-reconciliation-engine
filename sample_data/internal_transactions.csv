@@ -1,0 +1,6 @@
+transaction_id,date,amount,status,customer_id
+TXN001,2026-04-10,5000,Success,C001
+TXN002,2026-04-10,2500,Success,C002
+TXN003,2026-04-10,7000,Success,C003
+TXN005,2026-04-10,4000,Success,C004
+TXN005,2026-04-10,4000,Success,C004

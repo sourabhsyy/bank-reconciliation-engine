@@ -1,0 +1,5 @@
+transaction_id,date,amount,bank_status,reference_number
+TXN001,2026-04-10,5000,Success,REF101
+TXN002,2026-04-10,2000,Success,REF102
+TXN004,2026-04-10,9000,Success,REF103
+TXN005,2026-04-10,4000,Failed,REF104
